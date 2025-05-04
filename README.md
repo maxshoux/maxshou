@@ -1,4 +1,4 @@
-# 💎 Ultimate Luxury Social Profile
+# 💎 Max's Social Profile
 
 ![Luxury Social Profile Showcase](https://i.imgur.com/Jf5qP9E.png)  
 *A premium, no-scroll social introduction page with elegant design and built-in protection*
@@ -60,10 +60,10 @@ This is an exclusive, single-page social profile designed for professionals and 
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/luxury-profile.git
+git clone https://github.com/maxshoux/maxshou.git
 
 # Navigate to project directory
-cd luxury-profile
+cd maxshou
 
 # Open in default browser (no build needed)
 open index.html
