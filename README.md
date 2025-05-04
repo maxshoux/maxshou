@@ -1,6 +1,6 @@
 # 💎 Max's Social Profile
 
-![Luxury Social Profile Showcase](https://i.imgur.com/Jf5qP9E.png)  
+![Luxury Social Profile Showcase](Screenshot_2025_0504_170045.png)  
 *A premium, no-scroll social introduction page with elegant design and built-in protection*
 
 ---
